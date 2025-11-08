@@ -1,7 +1,9 @@
 Project Summary – AgroVerse: AI-Powered Smart Farming Assistant with Digital Twin
+
 💡 Overview
 AgroVerse is an AI-powered smart farming assistant designed to help farmers make data-driven decisions for better crop yield, reduced costs, and sustainable farming.
 It combines AI, IoT, 3D visualization, and voice assistance into a single platform that’s simple, affordable, and accessible — even in rural areas with limited internet.
+
 🚜 Core Features
 AI Crop Doctor 🤖 – Detects crop diseases from leaf images and gives instant solutions.
 IoT Sensor Monitoring 🌡️ – Tracks soil moisture, pH, temperature, and sends smart alerts.
